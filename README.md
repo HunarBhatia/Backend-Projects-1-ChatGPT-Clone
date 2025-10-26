@@ -6,6 +6,9 @@ This project is a web-based conversational AI platform inspired by ChatGPT, buil
 
 ### So, feel free to check it out!
 
+Also, a demo video-> https://youtu.be/MWBiNlLGbxs 
+
+
 # Features
 
 User registration and authentication.
