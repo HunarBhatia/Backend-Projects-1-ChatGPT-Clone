@@ -2,6 +2,8 @@
 
 This project is a web-based conversational AI platform inspired by ChatGPT, built using Django and integrated with the OpenAI API. Users can register, log in, and chat with an AI-driven bot in real time. The chat history is saved and persisted for each user, allowing ongoing conversations and referencing previous messages.
 
+## If You are interested and wish to delve deeper into the project, I have attached a pdf file that contains everything I experienced while documenting the entire process.So, feel free to check it out!
+
 # Features
 
 User registration and authentication.
